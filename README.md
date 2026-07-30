@@ -7,8 +7,10 @@ Pharmaceutical Desert Index (distance to the nearest pharmacy, distance to the
 nearest hospital, and social vulnerability), then evaluates delivery options including conventional **truck-only** and
 **truck-and-drone** system and quantifies energy, cost and time impacts on the desert and household levels.
 
-<img src="Figures/PDI_Map.png" alt="Pharmaceutical Desert Index Map" width="500">
- 
+<p align="center">
+  <img src="Figures/PDI_Map.png" alt="Pharmaceutical Desert Index Map" width="500">
+</p>
+
 ## Repository structure
  
 - **`GIS_Work/`** — where the GIS and map work in the paper can be found:
@@ -23,7 +25,9 @@ and computes energy, time, and cost. Truck energy is computed with the MOVESTAR
 model; drone energy uses a rotor model based on DJI AGRAS T20P specifications. It also compares delivery
 against self-drive and hired transport service, on a per-household basis.
 
-<img src="Figures/Optimization_Flow.png" alt="Delivery Optimization Flow" width="500">
+<p align="center">
+  <img src="Figures/Optimization_Flow.png" alt="Delivery Optimization Flow" width="700">
+</p>
  
 ### Contents of `Delivery_Optimization/`
  

@@ -3,8 +3,8 @@
 Code and data for the paper *Where Pharmaceutical Deserts Are and How to Serve Them: A Geospatial Index and Autonomous Routing Study in Rural Nebraska*.
  
 The study identifies **pharmaceutical deserts** in Nebraska using a
-Pharmaceutical Desert Index (distance to the nearest pharmacy, distance to the
-nearest hospital, and social vulnerability), then evaluates delivery options including conventional **truck-only** and
+Pharmaceutical Desert Index comprising distance to the nearest pharmacy, distance to the
+nearest hospital, and social vulnerability, then evaluates delivery options including conventional **truck-only** and
 **truck-and-drone** system and quantifies energy, cost and time impacts on the desert and household levels.
 
 <p align="center">

@@ -77,7 +77,7 @@ For battery sensitivity (scales drone battery capacity and coverage radius toget
 BATT_MULT=1.25 python run_drone_problem.py
 BATT_MULT=1.5  python run_drone_problem.py
 ```
-The above runs two variants of the same problem where drone battery is increased by 25% and 50%.
+The commands above run two variants of the same problem where drone battery is increased by 25% and 50%.
 
 ### Outputs (`Delivery_Optimization/results/`)
 - `summary_drone.csv` — per-scenario energy, time, and cost for both systems.

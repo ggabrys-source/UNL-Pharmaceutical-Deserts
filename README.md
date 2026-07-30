@@ -8,7 +8,7 @@ nearest hospital, and social vulnerability), then evaluates delivery options inc
 **truck-and-drone** system and quantifies energy, cost and time impacts on the desert and household levels.
 
 <p align="center">
-  <img src="Figures/PDI_Map.png" alt="Pharmaceutical Desert Index Map" width="500">
+  <img src="Figures/PDI_Map.png" alt="Pharmaceutical Desert Index Map" width="600">
 </p>
 
 ## Repository structure
